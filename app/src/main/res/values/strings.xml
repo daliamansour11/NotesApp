@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KeepNotes</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="note_Content">This is a very long title and here it isThis is a very long title and here it isThis is a very long title and here it is</string>
+    <string name="note_title">this a new tittle</string>
+    <string name="search">Search your Notes</string>
+    <string name="enternote">Note</string>
+</resources>
